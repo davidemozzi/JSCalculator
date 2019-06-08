@@ -1,4 +1,5 @@
 let input = document.getElementById("input");
+let output = document.getElementById("output");
 
 function run() {
   try {
